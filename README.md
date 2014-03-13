@@ -42,6 +42,10 @@ Output of our program
 
 The classifier.py program outputs the accuracy of our GMM classifier and the CLASSIFIER.py outputs the accuracy of scikit-learn's GMM classifier.
 
+Accuracy Achieved
+=========================
+I was able to achieve an accuracy of 96.15 percent with a testing data of 10000 samples. It performs accurately w.r.t  GMM classifiers of other libraries.  
+
 
 Remarks
 =========================
