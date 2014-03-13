@@ -3,7 +3,7 @@ GMM-Star-Quasar
 
 Star - quasar classification using Gaussian Mixture Models
 
-I wroote a Gaussian mixtures based model to classify stars and quasars using photometric color measurements provided by Sloan Digital Sky Suvey.
+I wrote a Gaussian mixtures based model to classify stars and quasars using photometric color measurements provided by Sloan Digital Sky Suvey.
 
 The repository contains three python source files and a data folder in which we have the training data for our method.
 
